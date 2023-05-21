@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Colonel Kai</h1>
 <h3 align="center">Amateur Programmer, Currently In Process of Registering into University of Aizu.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=colonelkai&label=Profile%20views&color=0e75b6&style=flat" alt="colonelkai" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colonelkai" alt="colonelkai" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/colonel_kai" target="blank"><img src="https://img.shields.io/twitter/follow/colonel_kai?logo=twitter&style=for-the-badge" alt="colonel_kai" /></a> </p>
