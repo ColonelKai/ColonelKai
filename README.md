@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Colonel Kai</h1>
-<h3 align="center">Amateur Programmer, Currently In Process of Registering into University of Aizu.</h3>
+<h3 align="center">Amateur Programmer, Studying CompSci in University of Aizu.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonelkai&label=Profile%20views&color=0e75b6&style=flat" alt="colonelkai" /> </p>
 
