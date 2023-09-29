@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/colonel_kai" target="blank"><img src="https://img.shields.io/twitter/follow/colonel_kai?logo=twitter&style=for-the-badge" alt="colonel_kai" /></a> </p>
 
-- I’m currently working on [stratham-mail-registrar-system](https://github.com/ColonelKai/stratham-mail-registrar-system)
+- I’m currently working on [Publictransit]([https://github.com/ColonelKai/stratham-mail-registrar-system](https://github.com/ColonelKai/PublicTransit))
 
 - I’m currently learning **Web Development, Svelte, PocketBase, TypeScript**
 
