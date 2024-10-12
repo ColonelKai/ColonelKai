@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/colonel_kai" target="blank"><img src="https://img.shields.io/twitter/follow/colonel_kai?logo=twitter&style=for-the-badge" alt="colonel_kai" /></a> </p>
 https://iyrinworldbuilding.neocities.org/
 
-- I’m currently working on [LenoriaCore](https://github.com/ColonelKai/Lenoria-Core)
+- I’m currently working on MacroAlly
 
 - I’m currently learning nothing. Lol.
 
