@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Colonel Kai</h1>
-<h3 align="center">Amateur Programmer, Studying Software Engineering in University of Aizu.</h3>
+<h3 align="center">Hobby Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colonelkai&label=Profile%20views&color=0e75b6&style=flat" alt="colonelkai" /> </p>
 
@@ -8,11 +8,7 @@
 <p align="left"> <a href="https://twitter.com/colonel_kai" target="blank"><img src="https://img.shields.io/twitter/follow/colonel_kai?logo=twitter&style=for-the-badge" alt="colonel_kai" /></a> </p>
 https://iyrinworldbuilding.neocities.org/
 
-- I’m currently working on MacroAlly
-
-- I’m currently learning nothing. Lol.
-
-- How to reach me **colonelkai@hotmail.com**
+  I have quit the idea that I will do programming professionally, and have started over University to study Law & Politics instead. So, nowadays, I mostly do projects that I enjoy, such as currently the company I am running in **Alexandria Polsim Server**. So, you're not going to see anything cool here anymore :p
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
